@@ -20,5 +20,18 @@
             #020617
         );
     }
+
+    figcaption {
+        position: absolute;
+        bottom: 0;
+
+        padding: 24px;
+
+        h2 {
+            font-size: 18px;
+            margin-top: 8px;
+        }
+    }
+
 }
 }
